@@ -8,5 +8,9 @@ React
 
 # Getting Started
 
-1. Clone the project `git clone `
-2. Change the name in package.json
+1. `git clone git@github.com:emmerich/emmerich-starter.git $NAME`
+2. `cd $NAME`
+3. Change the name in package.json
+4. `rm -rf .git`
+5. Ready to go, set up git etc
+
